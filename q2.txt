@@ -1,1 +1,6 @@
 Explain what the "upstream" remote is usually used for, in your own words.
+upstream remote
+The source file from which users draw information. Given the term, the analogy of a water source and its distributaries is very fitting:-
+Many people receive the same water (information) that comes downstream via distributaries.
+However, if someone goes upstream to the source and makes a change, let's say adds red dye, then such change will affect all people receiving the information coming downstream.
+It is used if it is necessary to make changes to the source that everyone draws from.
