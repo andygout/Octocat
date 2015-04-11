@@ -1,1 +1,6 @@
 Explain what a branch is, in your own words.
+branch
+Creates a separate version of the code to which changes can be made.
+Eventually, if changes between the two (or more) versions of code need to be consolidated, the merge or rebase function can be used.
+Merging is best suited when dealing with remote repositories and multiple users so that the separate branches worked on by various people can remain distinctive.
+Rebasing is best suited to local repositories with a single user.
