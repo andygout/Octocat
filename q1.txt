@@ -1,1 +1,10 @@
 Explain what git clone does, in your own words.
+git clone
+Can make a copy of a remote repository and include it in your current location.
+
+i.e. git clone https://github.com/andygout/Octocat
+Above will make a copy of the repository held at the given URL and include it in your current location.
+
+Can also make copies within local directories:-
+git clone dir cloned_dir
+Above will make a copy of 'dir' repository and create a new, identical repository in the current (or dictated) location entitled 'cloned_dir'.
